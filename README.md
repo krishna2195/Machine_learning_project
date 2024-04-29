@@ -1,1 +1,5 @@
 # Machine_learning_project
+
+
+**Abstract**
+This study investigates the analysis of bus route 3 patterns and delays within the Chicago Transit Authority (CTA) system using real-time data obtained through APIs. With a focus on anomaly detection due to heavily unbalanced data, the research aims to develop insights into delays, on-time performance, and frequency. Leveraging machine learning algorithms, including Logistic Regression (LR), Random Forest (RF), and Support Vector Machine (SVM), the study explores methods to enhance the detection of delays. Data preprocessing involves categorization and scaling techniques, while model evaluation considers metrics such as accuracy, precision, recall, and F1 Score. Sampling techniques and hyperparameter tuning, specifically threshold adjustment, are employed to address data imbalance and optimize model performance. The results indicate that the Random Forest algorithm outperforms others, particularly after adjusting the threshold to prioritize the detection of delays. This research contributes to the understanding of anomaly detection in transit systems and offers insights for improving delay prediction and management.
